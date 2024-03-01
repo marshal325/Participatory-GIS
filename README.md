@@ -1,1 +1,0 @@
-# Participatory-GIS
